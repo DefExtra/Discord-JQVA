@@ -7,7 +7,7 @@
 - easy a quick
 - works like any discord.js handler
 - replys system to make mutil language easy
-- idk
+- bult in erela.js system
 
 ### `-` Explain
 
@@ -120,6 +120,8 @@ export default {
         isSlash,
         d.id
       );
+      // you also can get the erela.js manager by this
+      index.bot.getManager()
     });
   },
 };
