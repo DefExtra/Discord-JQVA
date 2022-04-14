@@ -1,0 +1,9 @@
+BOT:
+  TOKEN: "discod bot token"
+  PREFIX: discord bot prefix"
+REPLYS:
+  invaildUseg: ":x: please {do} after the command\nlike this: `{ex}`"
+  notInVoiceChannel: ":x: please connect to a voice channel first."
+  trackENQ: "Enqueuing track {song[title]}."
+  cantBanThisMember: ":x: i can't ban this member."
+  banDone: "<@{user[id]}> has been banned."
